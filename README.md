@@ -8,7 +8,7 @@ This code was built on [Kuan-Hao Huang's deep active learning repository](https:
 
 # Dependencies
 
-To run this code fully, you'll need [PyTorch and Torchvision](https://pytorch.org/) (we're using version 1.8.0) and [scikit-learn](https://scikit-learn.org/stable/). We've been running our code in Python 3.7.
+To run this code fully, you'll need [PyTorch and Torchvision](https://pytorch.org/) and [scikit-learn](https://scikit-learn.org/stable/). We've tested our code with PyTorch 1.8.0, 1.13.0 and Python 3.7, 3.8.
 
 # Running an experiment
 
