@@ -18,3 +18,14 @@ This code allows you to also run each of the baseline algorithms used in our pap
 
 `python run.py --model mlp --nQuery 10000 --data SVHN --alg conf`\
 runs an active learning experiment using an MLP and SVHN data, querying batches of 10,000 with confidence sampling.
+
+# Bibliography
+If you find our work to be useful in your research, please cite:
+```
+@article{saran2023streaming,
+  title={Streaming Active Learning with Deep Neural Networks},
+  author={Saran, Akanksha and Yousefi, Safoora and Krishnamurthy, Akshay
+  and Langford, John and Ash, Jordan T.},
+  year={2023}
+}
+```
