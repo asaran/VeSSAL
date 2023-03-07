@@ -1,8 +1,9 @@
 # VolumE Sampling for Streaming Active Learning (VeSSAL)
 
-This respository is an implementation of the VeSSAL batch active learning algorithm. Details are in the following [paper](https://asaran.github.io/papers/VeSSAL.pdf):
+This respository is an implementation of the VeSSAL batch active learning algorithm. Details are in the following [paper](https://arxiv.org/abs/2303.02535):
 > A. Saran, S. Yousefi, A. Krishnamurthy, J. Langford, J.T. Ash.
-Streaming Active Learning with Deep Neural Networks.
+Streaming Active Learning with Deep Neural Networks. 
+2023.
 
 This code was built on [Kuan-Hao Huang's deep active learning repository](https://github.com/ej0cl6/deep-active-learning), and [Batch Active learning by Diverse Gradient Embeddings](https://github.com/JordanAsh/badge).
 
