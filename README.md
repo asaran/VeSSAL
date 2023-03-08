@@ -26,6 +26,7 @@ If you find our work to be useful in your research, please cite:
   title={Streaming Active Learning with Deep Neural Networks},
   author={Saran, Akanksha and Yousefi, Safoora and Krishnamurthy, Akshay
   and Langford, John and Ash, Jordan T.},
+  journal={arXiv preprint arXiv:2303.02535},
   year={2023}
 }
 ```
