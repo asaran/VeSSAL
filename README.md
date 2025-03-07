@@ -4,7 +4,7 @@ This repository is an implementation of the VeSSAL batch active learning algorit
 > A. Saran, S. Yousefi, A. Krishnamurthy, J. Langford, J.T. Ash.
 Streaming Active Learning with Deep Neural Networks. ICML 2023.
 
-For a quick overview of the approach, please check the [talk](https://icml.cc/virtual/2023/poster/24291) and [poster](https://asaran.github.io/posters/icml2023_poster.pdf) presented at ICML 2023.
+For a quick overview of the approach, please check the [talk](https://icml.cc/virtual/2023/poster/24291) and [poster](https://icml.cc/media/PosterPDFs/ICML%202023/24291.png?t=1690414066.469752) presented at ICML 2023.
 
 This code was built on [Kuan-Hao Huang's deep active learning repository](https://github.com/ej0cl6/deep-active-learning), and [Batch Active learning by Diverse Gradient Embeddings](https://github.com/JordanAsh/badge).
 
